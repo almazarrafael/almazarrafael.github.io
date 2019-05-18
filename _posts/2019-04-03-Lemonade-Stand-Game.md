@@ -28,5 +28,6 @@ If I had a chance to do this again, I would implement object oriented programmin
 <center>
 <img src="https://cdn.discordapp.com/attachments/563284597488615434/579112612004888597/lemonadestandgame.PNG" alt="Main Menu">
 <br>
+<br>
 <img src="https://cdn.discordapp.com/attachments/563284597488615434/579112620540428288/lemonadestandgame1.PNG" alt="Main Menu">
 </center>
