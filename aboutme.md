@@ -2,7 +2,8 @@
 layout: page
 bigimg: /img/bigimg.png
 title: rafael almazar
-subtitle: lover of technology - filipino - gamer - learner - computer engineering student
+subtitle: computer engineering student - programmer - electronics hobbyist - gamer
+
 ---
 
 # me
