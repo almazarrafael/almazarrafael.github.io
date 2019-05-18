@@ -73,7 +73,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "almazar.rafael@gmail.com / rafael.almazar.677@my.csun.edu"
+  email: "almazar.rafael@gmail.com"
 #  facebook: daattali
   github: almazarrafael
 #  twitter: daattali
