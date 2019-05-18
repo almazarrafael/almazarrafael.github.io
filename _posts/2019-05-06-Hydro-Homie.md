@@ -5,6 +5,8 @@ subtitle: A Discord bot that reminds you to drink water.
 tags: [programming]
 ---
 
+This was my first ever project that involved JavaScript. I had to learn its syntax, which I kinda did by learning through Codecademy. I initially thought this project was going to be easy but it turns out that it was a little more complicated than I thought it would be.
+
 ## function
 
 1. Be able to specify X hour interval (1 - 8)
