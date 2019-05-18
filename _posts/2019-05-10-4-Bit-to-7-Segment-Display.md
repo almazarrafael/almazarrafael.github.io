@@ -28,8 +28,8 @@ A basic circuit and program that displays a 4 bit input onto a 7 segment display
 Using C++ and how Arduino programming was structured was already familiar with me because it's similar to what is used in VEX Robotics (RobotC and PROS). In the future, I would like to be able to use 8 bits and incorporate multiple segments. The arduino doesn't have enough pins to output to two different segment displays and take input from 8 dip switches.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
-<br>
 <center>
 <img src="https://i.ibb.co/xXFB2GS/diagram.png" alt="Diagram">
 <br>
 <img src="https://cdn.discordapp.com/attachments/577007309461389312/578139679916949514/image0.png" alt="Finished product">
+</center>
