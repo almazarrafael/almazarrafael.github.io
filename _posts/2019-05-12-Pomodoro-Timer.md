@@ -32,6 +32,7 @@ I had to figure out a way to make a timer that didn't keep the program stalled a
 <center>
 <img src="https://i.ibb.co/XbHFDQ2/pomodoro-diagram.png" alt="Diagram">
 <br>
+<br>
 <img src="https://cdn.discordapp.com/attachments/577007309461389312/578139617509769216/image0.png" alt="Finished product">
 </center>
 *The contrast can be adjusted by adding a potentiometer to the contrast pin of the LCD*
