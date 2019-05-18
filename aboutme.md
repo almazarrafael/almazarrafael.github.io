@@ -1,6 +1,6 @@
 ---
 layout: page
-bigimg: /img/test1.jpg
+bigimg: /img/test2.jpg
 title: rafael almazar
 subtitle: computer engineering student - programmer - electronics hobbyist - gamer
 
