@@ -9,7 +9,7 @@ subtitle: computer engineering student - programmer - electronics hobbyist - gam
 # me
 My name is **Rafael Almazar**. I'm 18 years old and I was born in the Philippines and moved to the U.S. in 2014 and now I am currently living in Sun Valley (Los Angeles), California. I love learning and doing new things and I aim to showcase the things that I've worked on here.
 # education
-In 2018, I graduated from **John Burroughs High School, Burbank** and now I am currently a 2nd year student in **California State University, Northridge** and I am majoring in **Computer Engineering**.
+In 2018, I graduated from **John Burroughs High School, Burbank** and now I am currently a 2nd year student in **California State University, Northridge**, majoring in **Computer Engineering**.
 # interests
 I'm really interested in all things **Science and Technology**. I also love listening to music, watching movies, skating around, learning new things and trying new hobbies. I also love **Geography and World History**. I plan on memorizing the name of every country and its location on the map.
 # side note
