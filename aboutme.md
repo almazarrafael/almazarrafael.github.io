@@ -5,7 +5,7 @@ subtitle: lover of technology - filipino - gamer - learner - computer engineerin
 ---
 
 # me
-My name is **Rafael Almazar**. I was born in the Philippines and moved to the U.S. in 2014 and now I am currently living in Sun Valley (Los Angeles), California. I love learning and doing new things and I aim to showcase the things that I've worked on here.
+My name is **Rafael Almazar**. I'm 18 years old and I was born in the Philippines and moved to the U.S. in 2014 and now I am currently living in Sun Valley (Los Angeles), California. I love learning and doing new things and I aim to showcase the things that I've worked on here.
 # education
 In 2018, I graduated from **John Burroughs High School, Burbank** and now I am currently a 2nd year student in **California State University, Northridge** and I am majoring in **Computer Engineering**.
 # interests
