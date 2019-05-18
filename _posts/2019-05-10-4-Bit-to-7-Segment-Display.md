@@ -31,5 +31,6 @@ Using C++ and how Arduino programming was structured was already familiar with m
 <center>
 <img src="https://i.ibb.co/xXFB2GS/diagram.png" alt="Diagram">
 <br>
+<br>
 <img src="https://cdn.discordapp.com/attachments/577007309461389312/578139679916949514/image0.png" alt="Finished product">
 </center>
