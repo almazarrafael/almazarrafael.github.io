@@ -30,8 +30,10 @@ This was my first ever project that involved JavaScript. I had to learn its synt
 I dived into this project thinking it was gonna be easy. I already had the "logic" in my head and could have easily done it had it been in Java and not in JavaScript where asynchronous programming was prevalant. At the end of the day, I had to simplify what my bot would do because of how asynchronous works. I think it forced me to think in a different way. I would definitely want to learn more about it for other Discord bots.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
+<center>
 <img src="https://cdn.discordapp.com/attachments/572552599950327809/574864394836508673/unknown.png" alt="Commands">
 <br>
 <img src="https://cdn.discordapp.com/attachments/572552599950327809/574864495248408576/unknown.png" alt="Info Command">
 <br>
 <img src="https://cdn.discordapp.com/attachments/572552599950327809/574864616325251082/unknown.png" alt="Hydro Homie in Action">
+</center>
