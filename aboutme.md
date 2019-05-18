@@ -1,7 +1,7 @@
 ---
 layout: page
 title: rafael almazar
-subtitle: computer engineering student - filipino - gamer - lover of technology
+subtitle: lover of technology - filipino - gamer - learner - computer engineering student
 ---
 
 # me
