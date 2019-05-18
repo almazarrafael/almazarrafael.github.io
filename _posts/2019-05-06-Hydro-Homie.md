@@ -30,5 +30,7 @@ I dived into this project thinking it was gonna be easy. I already had the "logi
 
 ## images
 ![Commands](https://cdn.discordapp.com/attachments/572552599950327809/574864394836508673/unknown.png)
+
 ![!info Command](https://cdn.discordapp.com/attachments/572552599950327809/574864495248408576/unknown.png)
+
 ![Hydro Homie in Action](https://cdn.discordapp.com/attachments/572552599950327809/574864616325251082/unknown.png)
