@@ -33,7 +33,9 @@ I dived into this project thinking it was gonna be easy. I already had the "logi
 <center>
 <img src="https://cdn.discordapp.com/attachments/572552599950327809/574864394836508673/unknown.png" alt="Commands">
 <br>
+
 <img src="https://cdn.discordapp.com/attachments/572552599950327809/574864495248408576/unknown.png" alt="Info Command">
 <br>
+
 <img src="https://cdn.discordapp.com/attachments/572552599950327809/574864616325251082/unknown.png" alt="Hydro Homie in Action">
 </center>
