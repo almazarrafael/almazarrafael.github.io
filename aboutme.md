@@ -6,7 +6,7 @@ subtitle: computer engineering student - programmer - electronics hobbyist - gam
 
 ---
 
-<h1> <center> me </h1> </center>
+<h1> <center> me </center> </h1>
 
 My name is **Rafael Almazar**. I'm 18 years old and I was born in the Philippines and moved to the U.S. in 2014 and now I am currently living in Sun Valley (Los Angeles), California. I love learning and doing new things and I aim to showcase the things that I've worked on here.
 # education
