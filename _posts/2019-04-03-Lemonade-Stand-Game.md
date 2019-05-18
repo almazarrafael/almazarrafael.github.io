@@ -23,3 +23,9 @@ Rudimentary save/load system using file read/write that inputs each line in a fi
 ## notes
 
 If I had a chance to do this again, I would implement object oriented programming because a lot of main file could have been sectioned off. I think this was a really good side project which really helped me fully understand the material that was being taught at the time.
+
+## images
+
+![Main Menu](https://cdn.discordapp.com/attachments/563284597488615434/579112612004888597/lemonadestandgame.PNG)
+
+![Gameplay](https://cdn.discordapp.com/attachments/563284597488615434/579112620540428288/lemonadestandgame1.PNG)
