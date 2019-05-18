@@ -23,6 +23,7 @@ description: computer engineering student
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "https://almazarrafael.github.io/"
   About Me: "aboutme"
   Programming: "https://almazarrafael.github.io/tags/#programming"
   Electronics: "https://almazarrafael.github.io/tags/#electronics"
