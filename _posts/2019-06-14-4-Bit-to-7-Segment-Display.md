@@ -3,6 +3,7 @@ layout: post
 title: 4 Bit to 7 Segment Display
 subtitle: Input a number in 4 bit binary and the 7 segment display will decode and output it.
 gh-repo: almazarrafael/4bit-to-7Segment-Arduino
+image: /img/image0.PNG
 tags: [electronics]
 ---
 My first actual electronics project that features 4 bit decoding through Arduino programming and outputting through a 7 segment display.
