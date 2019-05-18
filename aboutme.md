@@ -25,5 +25,5 @@ So far, I've only taken Comp 110, Introduction to Algorithms and Programming (Ja
 <h1> <center> <font color="#DB324D"> contact  </font> </center> </h1>
 
 E-mail:
--almazar.rafael@gmail.com
--rafael.almazar.677@my.csun.edu
+- almazar.rafael@gmail.com
+- rafael.almazar.677@my.csun.edu
