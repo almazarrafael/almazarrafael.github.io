@@ -29,9 +29,10 @@ This Pomodoro timer feautures different modes with varying amounts of timer whic
 I had to figure out a way to make a timer that didn't keep the program stalled at delay(). I had to use a for loop that would delay for 1 sec each loop. The problem with this was that you would have to hold down the button for 1-2 seconds for it to actually receive the input and there was a chance for it to keep recieving the input afterwards. I added a two second delay between each input beind received to prevent unwanted inputs. The former issue could be solved by counting milliseconds instead of seconds.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
+<br>
 <center>
 <img src="https://i.ibb.co/XbHFDQ2/pomodoro-diagram.png" alt="Diagram">
-
+<br>
 <img src="https://cdn.discordapp.com/attachments/577007309461389312/578139617509769216/image0.png" alt="Finished product">
 </center>
 *The contrast can be adjusted by adding a potentiometer to the contrast pin of the LCD*
