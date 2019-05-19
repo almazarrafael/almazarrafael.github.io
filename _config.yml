@@ -25,9 +25,7 @@ description: computer engineering student
 navbar-links:
   Home: "https://almazarrafael.github.io/"
   About Me: "aboutme"
-  Projects:
-    - Programming: "https://almazarrafael.github.io/tags/#programming"
-    - Electronics: "https://almazarrafael.github.io/tags/#electronics"
+  Projects: "https://almazarrafael.github.io/tags/"
   Resources:
     - Instagram: "https://www.instagram.com/almazar.rafael/"
     - GitHub: "https://github.com/almazarrafael/"
