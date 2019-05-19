@@ -25,8 +25,8 @@ A basic circuit and program that displays a 4 bit input onto a 7 segment display
 
 <h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
-[My GitHub Repo](https://github.com/almazarrafael/4bit-to-7Segment-Arduino)
-[Ben Eater's Video on 7 Segment Decoders](https://youtu.be/7zffjsXqATg)
+- [My GitHub Repo](https://github.com/almazarrafael/4bit-to-7Segment-Arduino)
+- [Ben Eater's Video on 7 Segment Decoders](https://youtu.be/7zffjsXqATg)
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
