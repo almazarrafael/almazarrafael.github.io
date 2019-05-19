@@ -20,7 +20,7 @@ I made this game because I had nothing else to do for my class and I really want
 I used everything that I learned in Comp 110 (Intro to Computer Science) when I made this which includes conditional statements, loops, arrays, switch cases, method structures and file read/write.
 Rudimentary save/load system using file read/write that inputs each line in a file into a variable.
 
-<h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
+<h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
 [My GitHub Repo](https://github.com/almazarrafael/Lemonade-Stand-Game)
 
