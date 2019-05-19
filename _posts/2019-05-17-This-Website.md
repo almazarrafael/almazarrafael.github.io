@@ -15,13 +15,10 @@ This website's purpose was to help me showcase the things that I've done and hop
 
 <h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
-[My GitHub Repo](https://github.com/almazarrafael/almazarrafael.github.io)
-
-[Coolors](https://coolors.co/app)
-
-[Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/#lists)
-
-[Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
+- [My GitHub Repo](https://github.com/almazarrafael/almazarrafael.github.io)
+- [Coolors](https://coolors.co/app)
+- [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/#lists)
+- [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
