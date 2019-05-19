@@ -5,7 +5,7 @@ subtitle: It's literally a post about the website that you're on.
 gh-repo: almazarrafael/almazarrafael.github.io
 tags: [programming]
 ---
-This website's purpose was to help me showcase the things that I've done and hopefully I can show to other people and possibly future employers (*hint hint*). I used GitHub Pages to host my website which also supports jekyll themes. The jekyll theme I used is called "[Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)" which is a simple theme that can be customized and build more upon without having to need much prior knowledge. . I believe that I was able to use the theme to its intended purpose and was able to alter it enough to make it "my" website
+This website's purpose was to help me showcase the things that I've done and hopefully I can show to other people and possibly future employers (*hint hint*). I used GitHub Pages to host my website which also supports jekyll themes. The jekyll theme I used is called "[Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)" which is a simple theme that can be customized and build more upon without having to need much prior knowledge in web design and HTML. I believe that I was able to use the theme to its intended purpose and was able to alter it enough to make it "my" website
 
 <h1> <center> <font color="#DB324D"> what i learned </font> </center> </h1>
 
