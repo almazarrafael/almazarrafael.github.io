@@ -25,6 +25,12 @@ This was my first ever project that involved JavaScript. I had to learn its synt
 4. Using Node JS.
 5. Reading and writing files with JavaScript.
 
+<h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
+
+- [Mayo Clinic Water Information](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256)
+- [AnIdiiotsGuide](https://anidiots.guide/)
+- [Discord.js Guide](https://discordjs.guide/#before-you-begin)
+
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
 I dived into this project thinking it was gonna be easy. I already had the "logic" in my head and could have easily done it had it been in Java and not in JavaScript where asynchronous programming was prevalant. At the end of the day, I had to simplify what my bot would do because of how asynchronous works. I think it forced me to think in a different way. I would definitely want to learn more about it for other Discord bots.
