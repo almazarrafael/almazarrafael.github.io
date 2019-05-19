@@ -27,6 +27,7 @@ This was my first ever project that involved JavaScript. I had to learn its synt
 
 <h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
+- [My GitHub Repo] (https://github.com/almazarrafael/Lemonade-Stand-Game)
 - [Mayo Clinic Water Information](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256)
 - [AnIdiiotsGuide](https://anidiots.guide/)
 - [Discord.js Guide](https://discordjs.guide/#before-you-begin)
