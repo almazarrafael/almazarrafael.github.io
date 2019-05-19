@@ -17,7 +17,7 @@ A basic circuit and program that displays a 4 bit input onto a 7 segment display
 1. C++ using Arduino IDE.
 2. Digital input and output. (Logical ones and zeros)
 3. Resistors and it's purpose.
-4. Ohm's Law
+4. Ohm's Law.
 5. How electricity flows through in a circuit.
 6. How 7 segment displays work.
 7. What a truth table is and how to make one.
