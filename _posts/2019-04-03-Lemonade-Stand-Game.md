@@ -22,7 +22,7 @@ Rudimentary save/load system using file read/write that inputs each line in a fi
 
 <h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
-[My GitHub Repo](https://github.com/almazarrafael/Lemonade-Stand-Game)
+- [My GitHub Repo](https://github.com/almazarrafael/Lemonade-Stand-Game)
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
