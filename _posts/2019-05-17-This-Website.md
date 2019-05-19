@@ -17,6 +17,8 @@ This website's purpose was to help me showcase the things that I've done and hop
 
 [My GitHub Repo](https://github.com/almazarrafael/almazarrafael.github.io)
 
+[Coolors](https://coolors.co/app)
+
 [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/#lists)
 
 [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/)
