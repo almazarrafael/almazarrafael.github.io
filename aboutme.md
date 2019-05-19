@@ -20,7 +20,7 @@ I'm really interested in all things **Science and Technology**. I also love list
 
 <h1> <center> <font color="#DB324D"> side note </font> </center> </h1>
 
-So far, I've only taken Comp 110, Introduction to Algorithms and Programming (Java), but on my spare time I've gone into doing other side projects. In my first year of college, I worked with my college's robotics team, CSUN VEX Robotics, as much as I can. I worked on and off as a programmer and builder for my team. On and off because I had to balance participating in the club and my classes. I aim to work more on programming and building more arduino projects.
+So far, I've only taken **Comp 110, Introduction to Algorithms and Programming (Java)**, but on my spare time I've gone into doing other side projects. In my first year of college, I worked with my college's robotics team, **CSUN VEX Robotics**, as much as I can. I worked on and off as a programmer and builder for my team. On and off because I had to balance participating in the club and my classes. I aim to work more on programming and building more arduino projects.
 
 <h1> <center> <font color="#DB324D"> contact  </font> </center> </h1>
 
