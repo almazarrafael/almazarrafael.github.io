@@ -22,6 +22,10 @@ Rudimentary save/load system using file read/write that inputs each line in a fi
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
+[My GitHub Repo](https://github.com/almazarrafael/Lemonade-Stand-Game)
+
+<h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
+
 If I had a chance to do this again, I would implement object oriented programming because a lot of main file could have been sectioned off. I think this was a really good side project which really helped me fully understand the material that was being taught at the time.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
