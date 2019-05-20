@@ -39,7 +39,7 @@ title-img: /img/logo.png
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1A1A1D"
+navbar-col: "#050505"
 navbar-text-col: "#FCF7FF"
 navbar-children-col: "#2C2C2C"
 page-col: "#FCF7FF"
@@ -52,7 +52,7 @@ footer-link-col: "#DB324D"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/geometry_@2Xinverted.png"
+# navbar-img: "/img/geometry_@2Xinverted.png"
 footer-img: "/img/geometry_@2Xinverted.png"
 page-img: "/img/bg.png"
 
