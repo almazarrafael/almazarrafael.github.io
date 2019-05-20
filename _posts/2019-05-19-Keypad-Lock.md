@@ -6,7 +6,7 @@ gh-repo: almazarrafael/Keypad-Lock
 image: /img/overviewsquare.jpg
 tags: [electronics]
 ---
-This is a keypad lock that can be used to relay to an actual lock/motor. The keypad itself can also be swapped out for a different form of verification.
+This is a keypad lock that can be used to relay to an actual lock/motor. The keypad itself can also be swapped out for a different form of verification. This is more of a concept project meant for learning and not an actual product that should be used as a lock.
 
 <h1> <center> <font color="#DB324D"> function  </font> </center> </h1>
 
