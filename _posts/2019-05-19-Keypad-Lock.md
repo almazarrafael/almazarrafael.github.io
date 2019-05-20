@@ -29,3 +29,14 @@ This is a keypad lock that can be used to relay to an actual lock/motor. The key
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
 I had to use a different LCD display that had a built in chip into the back so it only needed 4 pins instead of a regular one with 16 pins. I also had to figure out how keypads work and how to use them. With some very intense research (googling), I found libraries that suit my needs for this project. One of the guides showcased the same project but didn't show any code so I had to figure that out on my own. All in all, it was a pretty easy project but now I know how to use keypads and an I2C LCD Display for my future projects. In the future, I hope to use the same locking concept but instead using an RFID receiver and tags.
+
+<h1> <center> <font color="#DB324D"> images </font> </center> </h1>
+<center>
+<img src="https://cdn.discordapp.com/attachments/577007309461389312/579849154285797377/overview.jpg" alt="Overview">
+<br>
+<br>
+<img src="https://cdn.discordapp.com/attachments/577007309461389312/579849151244664873/denied.jpg" alt="Access Denied">
+<br>
+<br>
+<img src="https://cdn.discordapp.com/attachments/577007309461389312/579849145616171013/granted.jpg" alt="Access Granted">
+</center>
