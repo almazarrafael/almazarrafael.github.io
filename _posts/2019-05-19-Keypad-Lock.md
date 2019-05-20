@@ -35,8 +35,8 @@ I had to use a different LCD display that had a built in chip into the back so i
 <img src="https://cdn.discordapp.com/attachments/577007309461389312/579849154285797377/overview.jpg" alt="Overview">
 <br>
 <br>
-<img src="https://cdn.discordapp.com/attachments/577007309461389312/579849151244664873/denied.jpg" alt="Access Denied">
+<img src="https://cdn.discordapp.com/attachments/577007309461389312/579853557164015617/denied.jpg" alt="Access Denied">
 <br>
 <br>
-<img src="https://cdn.discordapp.com/attachments/577007309461389312/579849145616171013/granted.jpg" alt="Access Granted">
+<img src="https://cdn.discordapp.com/attachments/577007309461389312/579853556979335189/granted.jpg" alt="Access Granted">
 </center>
