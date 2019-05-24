@@ -15,7 +15,7 @@ This is the first iteration of my resistance calculator. This version uses JOpti
 
 <h1> <center> <font color="#DB324D"> what i learned </font> </center> </h1>
 
-- How to calculate and read the resistors and its value.
+- How to calculate and read resistors and their value.
 
 <h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
