@@ -3,8 +3,7 @@ layout: post
 title: Resistance Calculator v.1
 subtitle: A basic program that calculates the resistance value of a resistor.
 tags: [programming]
-image: /img/HydroHomie.png
-gh-repo: almazarrafael/Hydro-Homie
+gh-repo: almazarrafael/Resistance-Calculator
 ---
 This is the first iteration of my resistance calculator. This version uses JOptionPane for GUI. It can calculate up to 6 bands and outputs the exact value of the resistor including the tolerance.
 
@@ -17,6 +16,11 @@ This is the first iteration of my resistance calculator. This version uses JOpti
 <h1> <center> <font color="#DB324D"> what i learned </font> </center> </h1>
 
 - How to calculate and read the resistors and its value.
+
+<h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
+
+- [My GitHub Repo](https://github.com/almazarrafael/Resistance-Calculator)
+- [Resistance Calculator and Chart](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band)
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
