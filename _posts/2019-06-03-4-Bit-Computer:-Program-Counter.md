@@ -3,7 +3,7 @@ layout: post
 title: 4 Bit Computer: Program Counter
 subtitle: A Program Counter (clock) for a 4 bit computer.
 gh-repo: almazarrafael/4-bit-Computer
-image: /img/pomodoro.png
+image: /img/PC.jpg
 tags: [electronics]
 ---
 A program counter that uses an ATTiny45. The speed of the clock can be adjusted with the potentiometer. It can also be toggled between the clock and a manual pulse for debugging. All of the buttons are also debounced.
