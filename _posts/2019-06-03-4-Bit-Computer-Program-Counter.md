@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Bit Computer: Program Counter
+title: 4 Bit Computer Program Counter
 subtitle: A Program Counter (clock) for a 4 bit computer.
 gh-repo: almazarrafael/4-bit-Computer
 image: /img/PC.jpg
