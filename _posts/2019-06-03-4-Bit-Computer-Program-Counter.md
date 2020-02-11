@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 4 Bit Computer Program Counter
-subtitle: A Program Counter (clock) for a 4 bit computer.
+title: 8 Bit Computer Program Counter
+subtitle: A Program Counter (clock) for a 8 bit computer.
 gh-repo: almazarrafael/4-bit-Computer
 image: /img/PC.jpg
 tags: [electronics]
@@ -32,7 +32,7 @@ A program counter that uses an ATTiny45. The speed of the clock can be adjusted 
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
-My friend and I decided to attempt to make a 4 bit computer since we're both Computer Engineering majors. He's a lot more knowledgable when it comes to the major since he's much more far along. He taught me some of the basics knowledge required to making the computer and its architecture. This is the first step we decided to take and we used an ATTiny45 instead of building a clock from scratch because we didn't have that many parts to work with.
+My friend and I decided to attempt to make a 8 bit computer since we're both Computer Engineering majors. He's a lot more knowledgable when it comes to the major since he's much more far along. He taught me some of the basics knowledge required to making the computer and its architecture. This is the first step we decided to take and we used an ATTiny45 instead of building a clock from scratch because we didn't have that many parts to work with.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
 <center>
