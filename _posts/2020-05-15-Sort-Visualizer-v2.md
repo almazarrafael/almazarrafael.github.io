@@ -45,8 +45,8 @@ This is one of my first real projects that I had to design a GUI for from the gr
 I've been wanting to make this project for a long time now and tried to dip my feet into the world of GUI building. I first started with Tkinter for python and managed to visualize two sorts. The issue with the way I did was that it didn't have any user input at all and the sorts would visualize one after the other. It also pre-generated a random array whenever it starts and would just exit once it's done sorting. I tried a different approach by using PyQt for GUI which allowed me to use QtDesigner in order to design and flesh out the GUI then I just programmed the wanted behavior afterwards. I learned a lot about what goes into building GUIs and things that came with it such as signals from user input. I also learned a little CSS in order to make the progress bars look the way I wanted to.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
-<center>
 [Video on my GitHub](https://github.com/almazarrafael/sort-visualizer/blob/master/Sort%20Visualizer%20Video%20Compressed.mp4)
+<center>
 <h3> <center> <font color="#DB324D"> v2 </font> </center> </h3>
 <img src="https://camo.githubusercontent.com/205f9569329aa970794759c9583804a9c941fdd0/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3536333238343539373438383631353433342f3731313033383730373837353937313037332f756e6b6e6f776e2e706e67" alt="v2">
 <br>
