@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sort Visualizer v.2
-subtitle: A program that visualizes different sorts.
+title: Pomodoro Timer
+subtitle: Desktop program for use with the pomodoro technique.
 tags: [programming]
 image: /img/pomodoro-timer-icon.png
 gh-repo: almazarrafael/pomodoro-timer-python
