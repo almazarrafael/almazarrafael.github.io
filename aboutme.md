@@ -12,11 +12,9 @@ Hi, I'm **Rafael Almazar**. I'm from the Philippines, but I moved to Los Angeles
 
 <h1> <center> <font color="#DB324D"> you </font> </center> </h1>
 
-The cool person reading my website!
+The cool person reading my website and now has my contact info!
 
-<h1> <center> <font color="#DB324D"> contact  </font> </center> </h1>
-
-E-mail:
+Contact:
 - almazar.rafael@gmail.com
 - rafael.almazar.677@my.csun.edu
 - [My GitHub](https://github.com/almazarrafael)
