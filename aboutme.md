@@ -2,7 +2,7 @@
 layout: page
 bigimg: /img/test2.jpg
 title: about me
-subtitle: computer engineering student - programmer - electronics hobbyist - gamer
+subtitle: computer engineering student - programmer - electronics hobbyist
 
 ---
 
