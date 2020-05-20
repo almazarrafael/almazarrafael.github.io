@@ -36,12 +36,12 @@ My friend and I decided to attempt to make a 8 bit computer since we're both Com
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
 <center>
-<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/PC_Schematic.PNG?token=ALHDSCXLJXSALG5HKMH7KTC474ME6" alt="Diagram">
+<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/PC_Schematic.PNG?token=ALHDSCTDJDYD6EHVTXB27TS6ZZOVQ" alt="Diagram">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/PC.jpg?token=ALHDSCSPT37XZ5ZHCUZRTYK474MGW" alt="Finished product">
+<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/PC.jpg?token=ALHDSCTYJSWFMR62OOWKBFC6ZZOWQ" alt="Finished product">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/ATTiny_Programmer.jpg?token=ALHDSCU3GU6LKUUHNAYCB2C474MJU" alt="ATTiny Programmer">
+<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/ATTiny_Programmer.jpg?token=ALHDSCWLDDS4ERKPF6FGAWK6ZZOTQ" alt="ATTiny Programmer">
 </center>
 *Circuit used to program the ATTiny45 using an Arduino.*
