@@ -25,7 +25,7 @@ The first few programs of my ongoing project to learn and design digital logic c
 I've been learning basic digital design for a while now. The main purpose of me designing and making these programs was to further solidify what I've learned and to help me debug the 8-bit breadboard computer I plan to build later on. I'm pretty happy with the process of making these because I've learned enough PyQt5 and Python that I didn't need to look up a tutorial on how to do some things because I already had the experience and my old projects to reference.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
-[Adder Simulator Video on my GitHub](https://github.com/almazarrafael/8-Bit-Digital-Logic-Debuggers/blob/master/8-Bit%20Full%20Adder%20Simulator/8-Bit%20Full%20Adder%20Simulator%20Demo.mp4)
+[Adder Simulator Video on my GitHub](https://github.com/almazarrafael/Digital-Logic/blob/master/8-Bit%20Adder%20Simulator/8-Bit%20Adder%20Simulator%20Demo.mp4)
 <center>
 <h3> <center> <font color="#DB324D"> Binary to Decimal Converter </font> </center> </h3>
 <img src="https://camo.githubusercontent.com/58b1cffe4c0ca79947f176e3108547712b9288e2/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3536333238333333313334353637383333382f3731323839303333373334393037343939342f756e6b6e6f776e2e706e67" alt="Binary to Decimal Converter">
