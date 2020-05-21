@@ -22,7 +22,7 @@ The first few programs of my ongoing project to learn and design digital logic c
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
-I've been learning basic digital design for a while now. The main purpose of me designing and making these programs was to further solidify what I've learned and to help me debug the 8-bit breadboard computer I plan to build later on. I'm pretty happy with the process of making these because I've learned enough PyQt5 and Python that I didn't need to look up a tutorial and how to do some things because I already had the experience and my old projects to reference.
+I've been learning basic digital design for a while now. The main purpose of me designing and making these programs was to further solidify what I've learned and to help me debug the 8-bit breadboard computer I plan to build later on. I'm pretty happy with the process of making these because I've learned enough PyQt5 and Python that I didn't need to look up a tutorial on how to do some things because I already had the experience and my old projects to reference.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
 [Full Adder Simulator Video on my GitHub](https://github.com/almazarrafael/8-Bit-Digital-Logic-Debuggers/blob/master/8-Bit%20Full%20Adder%20Simulator/8-Bit%20Full%20Adder%20Simulator%20Demo.mp4)
