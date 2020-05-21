@@ -6,7 +6,7 @@ tags: [programming, electronics]
 image: /img/FullAdderPic.png
 gh-repo: almazarrafael/8-Bit-Digital-Logic-Debuggers
 ---
-The first few programs of my ongoing project to learn and design digital logic components.
+The first few programs of my ongoing project to learn and design digital logic components. I plan on adding more the more I learn about digital design and especially when I start building my 8-bit breadboard computer.
 
 <h1> <center> <font color="#DB324D"> function </font> </center> </h1>
 
