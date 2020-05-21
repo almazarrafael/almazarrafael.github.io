@@ -2,7 +2,7 @@
 layout: post
 title: Resistance Calculator v.2
 subtitle: Updated version of my Resistance Calculator program.
-gh-repo: almazarrafael/almazarrafael/Resistance-Calculator
+gh-repo: /almazarrafael/Resistance-Calculator
 tags: [programming]
 ---
 I made this to practice programming Python and Python Qt5.
@@ -19,7 +19,7 @@ I learned how to properly inherit Qt5 design files and update data on the GUI ba
 
 <h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
-- [My GitHub Repo](https://github.com/almazarrafael/Lemonade-Stand-Game)
+- [My GitHub Repo](https://github.com/almazarrafael/Resistance-Calculator)
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
