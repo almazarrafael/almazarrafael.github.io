@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8-Bit Binary to Decimal Converter and 8-Bit Adder Simulator
-subtitle: Converts binary to decimal. Simulates a Adder with Carry in and out.
+subtitle: Converts binary to decimal. Simulates an Adder with Carry in and out.
 tags: [programming, electronics]
 image: /img/AdderPic.png
 gh-repo: almazarrafael/8-Bit-Digital-Logic-Debuggers
