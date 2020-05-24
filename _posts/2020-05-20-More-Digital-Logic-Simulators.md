@@ -3,7 +3,7 @@ layout: post
 title: More Digital Logic Simulators
 subtitle: Basic logic gates (Nand, Not, And, Or, Xor), multiplexer and demultiplexer and, half and full adders simulators! 
 tags: [programming, electronics]
-image: /img/AdderPic.png
+image: /img/HalfandFullAdderPic.png
 gh-repo: almazarrafael/8-Bit-Digital-Logic-Debuggers
 ---
 More digital logic simulators for my ongoing project of making a lot of them. This batch is for components that are used to build more complicated components that I plan on adding on later on.
