@@ -6,7 +6,7 @@ tags: [programming]
 image: /img/SortVisualizerV3Pic.png
 gh-repo: almazarrafael/sort-visualizer
 ---
-My ongoing quest of making a program that makes visualizes sorting has come to a close. I'm really happy with this new iteration because it's bigger and better than the last one.
+My ongoing quest of making a program that visualizes sorting algorithms has come to a close. I'm really happy with this new iteration because it's bigger and better than the last one.
 
 <h1> <center> <font color="#DB324D"> function </font> </center> </h1>
 
