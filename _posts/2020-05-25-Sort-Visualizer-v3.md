@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sort Visualizer v.2
+title: Sort Visualizer v.3
 subtitle: A program that visualizes different sorts. Now with 100% more sorts! and 1000% more bars!
 tags: [programming]
 image: /img/SortVisualizerV3Pic.png
