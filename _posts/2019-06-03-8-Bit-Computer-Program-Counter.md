@@ -24,7 +24,6 @@ A program counter that uses an ATTiny45. The speed of the clock can be adjusted 
 
 <h1> <center> <font color="#DB324D"> resources </font> </center> </h1>
 
-- [My GitHub Repo](https://github.com/almazarrafael/4-bit-Computer)
 - [Ben Eater's Video on Clocks](https://www.youtube.com/watch?v=SmQ5K7UQPMM&t=78s)
 - [Arduino Debouncing Guide](https://www.arduino.cc/en/Tutorial/Debounce)
 - [ATTiny Programming with an Arduino Guide](https://www.instructables.com/id/Program-an-ATtiny-with-Arduino/)
@@ -36,12 +35,9 @@ My friend and I decided to attempt to make a 8 bit computer since we're both Com
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
 <center>
-<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/PC_Schematic.PNG?token=ALHDSCTDJDYD6EHVTXB27TS6ZZOVQ" alt="Diagram">
+<img src="https://cdn.discordapp.com/attachments/577007309461389312/585297080893833226/image0.jpg" alt="Finished product">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/PC.jpg?token=ALHDSCTYJSWFMR62OOWKBFC6ZZOWQ" alt="Finished product">
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/almazarrafael/4-Bit-Computer/master/ATTiny_Programmer.jpg?token=ALHDSCWLDDS4ERKPF6FGAWK6ZZOTQ" alt="ATTiny Programmer">
+<img src="https://cdn.discordapp.com/attachments/577007309461389312/585297088888307722/image0.jpg" alt="ATTiny Programmer">
 </center>
 *Circuit used to program the ATTiny45 using an Arduino.*
