@@ -17,4 +17,5 @@ The cool person reading my website and now has my contact info!
 Contact:
 - almazar.rafael@gmail.com
 - rafael.almazar.677@my.csun.edu
+- [LinkedIn](https://www.linkedin.com/in/rafael-almazar-10aab61b5/)
 - [My GitHub](https://github.com/almazarrafael)
