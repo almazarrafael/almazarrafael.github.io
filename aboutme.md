@@ -1,6 +1,6 @@
 ---
 layout: page
-bigimg: /img/test2.jpg
+bigimg: /img/header.jpg
 title: about me
 subtitle: computer engineering student - programmer - electronics hobbyist
 
