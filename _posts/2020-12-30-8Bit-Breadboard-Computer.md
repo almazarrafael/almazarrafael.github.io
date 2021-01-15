@@ -24,7 +24,9 @@ A fully functioning "computer" with 8 whole bits of data and 16 address of RAM! 
 
 <h1> <center> <font color="#DB324D"> notes </font> </center> </h1>
 
-I started this project before I took my first digital logic class as a means to dive head first into the field. I was really interested in learning about how basic logic gates can be combined and eventually turned into a whole computer. I self studied digital design fundamentals a lot through Neso academy and when I felt I had good footing in it, I went ahead and went through a bunch of Ben Eater's videos. I was hooked. Summer came around and I started building it, but overtime I've realized that I've learnd all I can from watching his videos and that continuing on building the computer had diminishing returns. I took a break from it because of that and the semester had just started. I only recently (Dec 2020) finished it after the semester. My future goal is to dive even deeper into this and implement my own processor using VHDL and hopefully have a working build on an FPGA.
+I started this project before I took my first digital logic class as a means to dive head first into the field. I was really interested in learning about how basic logic gates can be combined and eventually turned into a whole computer. I self studied digital design fundamentals a lot through Neso academy and when I felt I had good footing in it, I went ahead and went through a bunch of Ben Eater's videos. I was hooked. Summer came around and I started building it, but overtime I've realized that I've learnd all I can from watching his videos and that continuing on building the computer had diminishing returns. I took a break from it because of that and the semester had just started. I only recently (Dec 2020) finished it after the semester. 
+
+My future goal is to dive even deeper into this and implement my own processor using VHDL and hopefully have a working build on an FPGA.
 
 <h1> <center> <font color="#DB324D"> images </font> </center> </h1>
 <center>
