@@ -2,7 +2,6 @@
 layout: post
 title: 8 Bit Computer Program Counter
 subtitle: A Program Counter (clock) for a 8 bit computer.
-gh-repo: almazarrafael/4-bit-Computer
 image: /img/PC.jpg
 tags: [electronics]
 ---
