@@ -3,7 +3,7 @@ layout: post
 title: 8 Bit Breadboard Computer
 subtitle: An 8 Bit Computer made on a breadboard with TTL chips.
 tags: [electronics]
-image: /img/bentium.jpg
+image: /img/bentiumpic.jpg
 ---
 A build of Ben Eater's 8 Bit Breadboard computer that I call the Bentium. All logic done through TTL chips on a breadboard.
 
