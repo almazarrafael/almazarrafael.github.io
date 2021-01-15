@@ -9,7 +9,7 @@ A build of Ben Eater's 8 Bit Breadboard computer that I call the Bentium. All lo
 
 <h1> <center> <font color="#DB324D"> function </font> </center> </h1>
 
-A fully functioning "computer" with 8 whole bits of data and 16 address of ram!
+A fully functioning "computer" with 8 whole bits of data and 16 address of RAM! The computer can be programmed by directly changing the bits in the RAM using a dip switch. The most complicated program I've been able to run on it was a fibonacci program that only went up to 144 because of only having 8 bits. Machine code to run it is at the bottom, although I forgot to label it with the assembly equivalent so it's not very informational.
 
 <h1> <center> <font color="#DB324D"> what i learned </font> </center> </h1>
 
@@ -30,4 +30,9 @@ I started this project before I took my first digital logic class as a means to 
 <center>
 <h3> <center> <font color="#DB324D"> Bentium </font> </center> </h3>
 <img src="https://raw.githubusercontent.com/almazarrafael/almazarrafael.github.io/master/img/bentium.jpg" alt="Bentium">
+<br>
+<br>
+<h3> <center> <font color="#DB324D"> Fibonacci </font> </center> </h3>
+<img src="https://raw.githubusercontent.com/almazarrafael/almazarrafael.github.io/master/img/fib.png" alt="Fibonacci">
+
 </center>
